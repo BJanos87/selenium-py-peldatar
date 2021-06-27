@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "ce9148336b75c865",
-      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/9//#testresult/ce9148336b75c865",
+      "uid" : "905b8fb70c4d5814",
+      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/10//#testresult/905b8fb70c4d5814",
       "status" : "passed",
       "time" : {
-        "start" : 1624825098035,
-        "stop" : 1624825098036,
-        "duration" : 1
+        "start" : 1624830067355,
+        "stop" : 1624830067355,
+        "duration" : 0
       }
     } ]
   },
@@ -29,12 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c0baae7c5e0f094a",
-      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/9//#testresult/c0baae7c5e0f094a",
+      "uid" : "975b9e78bc725a4f",
+      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/10//#testresult/975b9e78bc725a4f",
       "status" : "passed",
       "time" : {
-        "start" : 1624825098034,
-        "stop" : 1624825098034,
+        "start" : 1624830067354,
+        "stop" : 1624830067354,
         "duration" : 0
       }
     } ]
@@ -49,12 +49,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9261277cdb1d27f6",
-      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/9//#testresult/9261277cdb1d27f6",
+      "uid" : "fb4c66fcada8f1f0",
+      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/10//#testresult/fb4c66fcada8f1f0",
       "status" : "passed",
       "time" : {
-        "start" : 1624825098033,
-        "stop" : 1624825098033,
+        "start" : 1624830067353,
+        "stop" : 1624830067353,
         "duration" : 0
       }
     } ]
@@ -69,12 +69,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1663d9248c3b9775",
-      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/9//#testresult/1663d9248c3b9775",
+      "uid" : "ea7d7e0251416b",
+      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/10//#testresult/ea7d7e0251416b",
       "status" : "passed",
       "time" : {
-        "start" : 1624825098031,
-        "stop" : 1624825098031,
+        "start" : 1624830067351,
+        "stop" : 1624830067351,
         "duration" : 0
       }
     } ]
