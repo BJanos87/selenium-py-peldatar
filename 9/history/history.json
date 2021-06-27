@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e37db6e72659592e",
-      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/8//#testresult/e37db6e72659592e",
+      "uid" : "ce9148336b75c865",
+      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/9//#testresult/ce9148336b75c865",
       "status" : "passed",
       "time" : {
-        "start" : 1624819289144,
-        "stop" : 1624819289144,
-        "duration" : 0
+        "start" : 1624825098035,
+        "stop" : 1624825098036,
+        "duration" : 1
       }
     } ]
   },
@@ -29,13 +29,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "101337c0fe516ac9",
-      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/8//#testresult/101337c0fe516ac9",
+      "uid" : "c0baae7c5e0f094a",
+      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/9//#testresult/c0baae7c5e0f094a",
       "status" : "passed",
       "time" : {
-        "start" : 1624819289142,
-        "stop" : 1624819289143,
-        "duration" : 1
+        "start" : 1624825098034,
+        "stop" : 1624825098034,
+        "duration" : 0
       }
     } ]
   },
@@ -49,12 +49,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "867145ab54a06c99",
-      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/8//#testresult/867145ab54a06c99",
+      "uid" : "9261277cdb1d27f6",
+      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/9//#testresult/9261277cdb1d27f6",
       "status" : "passed",
       "time" : {
-        "start" : 1624819289141,
-        "stop" : 1624819289141,
+        "start" : 1624825098033,
+        "stop" : 1624825098033,
         "duration" : 0
       }
     } ]
@@ -69,12 +69,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e95b92a37cb2ed26",
-      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/8//#testresult/e95b92a37cb2ed26",
+      "uid" : "1663d9248c3b9775",
+      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/9//#testresult/1663d9248c3b9775",
       "status" : "passed",
       "time" : {
-        "start" : 1624819289139,
-        "stop" : 1624819289139,
+        "start" : 1624825098031,
+        "stop" : 1624825098031,
         "duration" : 0
       }
     } ]
