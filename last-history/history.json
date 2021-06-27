@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e1be07de51b0cea7",
-      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/6//#testresult/e1be07de51b0cea7",
+      "uid" : "90d05a1b82c91012",
+      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/7//#testresult/90d05a1b82c91012",
       "status" : "passed",
       "time" : {
-        "start" : 1624806243442,
-        "stop" : 1624806243443,
-        "duration" : 1
+        "start" : 1624813761276,
+        "stop" : 1624813761276,
+        "duration" : 0
       }
     } ]
   },
@@ -29,12 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3f9de2fe51f17757",
-      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/6//#testresult/3f9de2fe51f17757",
+      "uid" : "b63acce90dc7880a",
+      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/7//#testresult/b63acce90dc7880a",
       "status" : "passed",
       "time" : {
-        "start" : 1624806243441,
-        "stop" : 1624806243441,
+        "start" : 1624813761274,
+        "stop" : 1624813761274,
         "duration" : 0
       }
     } ]
@@ -49,13 +49,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "bd69de7b14f5286",
-      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/6//#testresult/bd69de7b14f5286",
+      "uid" : "9995a144c1c7e9d6",
+      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/7//#testresult/9995a144c1c7e9d6",
       "status" : "passed",
       "time" : {
-        "start" : 1624806243439,
-        "stop" : 1624806243439,
-        "duration" : 0
+        "start" : 1624813761272,
+        "stop" : 1624813761273,
+        "duration" : 1
       }
     } ]
   },
@@ -69,13 +69,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f5b886a3da9f8e09",
-      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/6//#testresult/f5b886a3da9f8e09",
+      "uid" : "e33981a24947f7b9",
+      "reportUrl" : "https://BJanos87.github.io/selenium-py-peldatar/7//#testresult/e33981a24947f7b9",
       "status" : "passed",
       "time" : {
-        "start" : 1624806243436,
-        "stop" : 1624806243437,
-        "duration" : 1
+        "start" : 1624813761270,
+        "stop" : 1624813761270,
+        "duration" : 0
       }
     } ]
   }
