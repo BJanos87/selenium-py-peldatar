@@ -44,7 +44,7 @@ try:
                 driver.get(url)
                 switch_to_main_window()
                 print(url)
-    print("Megnyitott Link-ek száma: ", len(anchors))
+    print("Megnyitott Link-ek száma:", len(anchors))
 
 # Kezelem az AssertionError-t
 except AssertionError as Error:
