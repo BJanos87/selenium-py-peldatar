@@ -5,6 +5,9 @@ with open ("table_in.csv") as csv_file:
     read_file = csv.reader(csv_file, delimiter=',')
     for row in read_file:
         row = row[:2]
+        row.reverse()
+        for i in range(2):
+            row[i] = row[i].strip()
         filtered_list.append(row)
     csv_file.close()
 
